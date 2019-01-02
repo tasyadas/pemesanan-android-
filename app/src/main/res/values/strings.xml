@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="welcome">WELCOME !</string>
+    <string name="mohon_isi_data_anda">Mohon Isi Data Anda</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="npm">NPM :</string>
+    <string name="masukkan_npm">Masukkan NPM</string>
+    <string name="namas">Nama :</string>
+    <string name="verifikasi">VERIFIKASI</string>
+    <string name="data_nama">Data Nama</string>
+    <string name="data_npm">Data Npm</string>
+    <string name="login">LOGIN</string>
+    <string name="nama_anda">Nama Anda :</string>
+    <string name="demiholoh">DEMIHOLOH</string>
+</resources>
